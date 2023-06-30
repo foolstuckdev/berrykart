@@ -1,0 +1,25 @@
+{
+  "name": "berrykart",
+  "version": "1.0.0",
+  "description": "BerryKart - A Simple DApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foolstuckdev/berrykart.git"
+  },
+  "author": "foolstuckdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foolstuckdev/berrykart/issues"
+  },
+  "homepage": "https://github.com/foolstuckdev/berrykart#readme",
+  "dependencies": {
+    "hardhat": "^2.16.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  }
+}
